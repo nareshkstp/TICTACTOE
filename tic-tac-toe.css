@@ -1,0 +1,84 @@
+p
+{
+    font-size: x-large;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+#b1
+{
+    height: 5%;
+    width: 5%;
+    margin-left: 40%;
+    font-size: small;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#b1:hover
+{
+    background-color:lightblue;
+    color: white;
+}
+
+#b2
+{
+    height: 5%;
+    width: 5%;
+    margin-left: 8%;
+    font-size: small;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#b2:hover
+{
+    background-color:lightblue;
+    color: white;
+}
+
+body
+{
+    background-image: url("https://image.freepik.com/free-photo/green-bokeh-nature-blur-background-element-design_1150-12451.jpg");
+    background-size: 100%;
+}
+
+table
+{
+    margin: 3% 39% ;
+}
+
+button
+{
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+h1
+{
+    text-align: center;
+}
+
+.b:hover
+{
+    background-color: lightblue;
+    color: white;
+}
+
+#p1
+{
+    height: 6%;
+    width: 6%;
+    margin-left: 40%;
+}
+
+#p2
+{
+    height: 6%;
+    width: 6%;
+    margin-left: 7%;
+}
+
+#p1, #p2
+{
+    display: inline;
+}
